@@ -1,2 +1,2 @@
 # TileDefectDetection
-天池比赛项目代码
+比赛代码
